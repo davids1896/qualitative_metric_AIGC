@@ -1,0 +1,30 @@
+[
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/DemoFusion/23_1024_1024/selected",
+        "fid_score": 46.501955043582555
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/DemoFusion/23_2048_2048/selected",
+        "fid_score": 46.651034574902454
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/MultiDiffusion/23_2048_2048/selected",
+        "fid_score": 118.5384578104767
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/ScaleCrafter/23_2048_2048/selected",
+        "fid_score": 75.10046436008822
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/SDXL/23_1024x1024/selected",
+        "fid_score": 46.75584393818532
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/SDXL/23_2048x2048/selected",
+        "fid_score": 103.16194882728297
+    },
+    {
+        "path": "/vepfs-sha/yuming.li/shuffusion/images/SDXL+BSRGAN/23_2048x2048/selected",
+        "fid_score": 46.574653528397675
+    }
+]
